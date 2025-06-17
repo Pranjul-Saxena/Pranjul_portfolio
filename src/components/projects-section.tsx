@@ -40,7 +40,7 @@ const projects: Project[] = [
     description: "Your innovation partner for custom digital solutions.",
     image: "/api/placeholder/400/240", 
     githubUrl: "https://github.com/Pranjul-Saxena",
-    demoUrl: "https://linked-works-eosin.vercel.app/",
+    demoUrl: "https://linked-works-w4xj.vercel.app/",
     tags: ["Services", "Analytics", "MVPs", "Products"]
   },
   {
